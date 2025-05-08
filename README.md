@@ -2,9 +2,15 @@
 Corso di Grafica in movimento 2025, SUPSI
 
 # Esercizio 1A
-Link A  
-Link B  
-Link C 
+[acceso_spento_2](esercizio_1A/acceso_spento_2.html)
+[acceso_spento_3](esercizio_1A/acceso_spento_3.html) 
+[aperto-chiuso_2](esercizio_1A/aperto-chiuso_2.html) 
+[aperto-chiuso_3](esercizio_1A/aperto-chiuso_3.html) 
+[rotazione_2](esercizio_1A/rotazione_2.html) 
+[rotazione_3](esercizio_1A/rotazione_3.html)  
+[spostamento_2](esercizio_1A/spostamento_2.html) 
+[spostamento_3](esercizio_1A/spostamento_3.html) 
+
 
 
 # Esercizio 1B
