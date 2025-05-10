@@ -12,12 +12,9 @@ Corso di Grafica in movimento 2025, SUPSI
 [spostamento_3](esercizio_1A/spostamento_3.html)     
 
 
-
 # Esercizio 1B
+[logo](esercizio_1B/logo.html)
 
-Link A  
-Link B  
-Link C
 
 # Esercizio 1C
 
@@ -36,6 +33,15 @@ Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilment
 
 
 # Esercizio 2
-Link A  
-Link B  
-Link C
+[index](esercizio_2/index.html)
+
+
+# Esercizio 3A
+Link
+
+
+# Esercizio 3B
+Link
+
+
+# Esercizio 3C
