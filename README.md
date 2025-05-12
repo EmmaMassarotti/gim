@@ -2,18 +2,18 @@
 Corso di Grafica in movimento 2025, SUPSI
 
 # Esercizio 1A
-[acceso_spento_2](esercizio_1A/acceso_spento_2.html)      
-[acceso_spento_3](esercizio_1A/acceso_spento_3.html)      
-[aperto-chiuso_2](esercizio_1A/aperto-chiuso_2.html)      
-[aperto-chiuso_3](esercizio_1A/aperto-chiuso_3.html)       
-[rotazione_2](esercizio_1A/rotazione_2.html)     
-[rotazione_3](esercizio_1A/rotazione_3.html)      
-[spostamento_2](esercizio_1A/spostamento_2.html)     
-[spostamento_3](esercizio_1A/spostamento_3.html)     
+[acceso_spento_2](https://emmamassarotti.github.io/gim/esercizio_1A/acceso_spento_2.html)      
+[acceso_spento_3](https://emmamassarotti.github.io/gim/esercizio_1A/acceso_spento_3.html)      
+[aperto-chiuso_2](https://emmamassarotti.github.io/gim/esercizio_1A/aperto-chiuso_2.html)      
+[aperto-chiuso_3](https://emmamassarotti.github.io/gim/esercizio_1A/aperto-chiuso_3.html)       
+[rotazione_2](https://emmamassarotti.github.io/gim/esercizio_1A/rotazione_2.html)     
+[rotazione_3](https://emmamassarotti.github.io/gim/esercizio_1A/rotazione_3.html)      
+[spostamento_2](https://emmamassarotti.github.io/gim/esercizio_1A/spostamento_2.html)     
+[spostamento_3](https://emmamassarotti.github.io/gim/esercizio_1A/spostamento_3.html)     
 
 
 # Esercizio 1B
-[logo](esercizio_1B/logo.html)
+[logo](https://emmamassarotti.github.io/gim/esercizio_1B/logo.html)
 
 
 # Esercizio 1C
@@ -33,7 +33,7 @@ Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilment
 
 
 # Esercizio 2
-[index](esercizio_2/index.html)
+[index](https://emmamassarotti.github.io/gim/esercizio_2/index.html)
 
 
 # Esercizio 3A
