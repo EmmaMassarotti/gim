@@ -36,9 +36,9 @@ Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilment
 
 
 # Esercizio 3A
-[pong](https://emmamassarotti.github.io/gim/esercizio_3A/pong/pong.html)   
-[pioggia](https://emmamassarotti.github.io/gim/esercizio_3A/pioggia/pioggia.html)   
-[neve](https://emmamassarotti.github.io/gim/esercizio_3A/neve/neve.html)    
+[pong](https://emmamassarotti.github.io/gim/esercizio_3A/pong/pong.html)         
+[pioggia](https://emmamassarotti.github.io/gim/esercizio_3A/pioggia/pioggia.html)         
+[neve](https://emmamassarotti.github.io/gim/esercizio_3A/neve/neve.html)          
 
 
 # Esercizio 3B
