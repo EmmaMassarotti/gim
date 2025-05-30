@@ -17,7 +17,6 @@ Corso di Grafica in movimento 2025, SUPSI
 
 
 # Esercizio 1C
-
 Il saggio “Sul Teatro Di Marionette” (1810) di Heinrich Von Kleist è un’opera breve ma ricca di significato, che lascia spazio a diverse interpretazioni, sia filosofiche sia artistiche.
 Da notare che non esiste un contesto narrativo; non ci sono cioè riferimenti di carattere temporale o spaziale all’interno dei quali collocare il testo. Ogni parola naviga quindi in un’atmosfera rarefatta perché intemporale e del tutto non localizzata (tranne l’indicazione di un non-luogo, evidenziato con M.). 
 Inoltre, i due personaggi che dialogano sono senza volto e senza nome, se si eccettua il primo ballerino di un teatro, nominato con la semplice iniziale di C. 
@@ -33,15 +32,15 @@ Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilment
 
 
 # Esercizio 2
-[index](https://emmamassarotti.github.io/gim/esercizio_2/index.html)
+[index](https://emmamassarotti.github.io/gim/esercizio_2/parallasse.html)
 
 
 # Esercizio 3A
-Link
+[pong](https://emmamassarotti.github.io/gim/esercizio_3A/pong/pong.html)
+[pioggia](https://emmamassarotti.github.io/gim/esercizio_3A/pioggia/pioggia.html)
+[neve](https://emmamassarotti.github.io/gim/esercizio_3A/neve/neve.html) 
 
 
 # Esercizio 3B
-Link
+[orologio](https://emmamassarotti.github.io/gim/esercizio_3A/orologio.html)
 
-
-# Esercizio 3C
