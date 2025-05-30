@@ -32,7 +32,7 @@ Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilment
 
 
 # Esercizio 2
-[index](https://emmamassarotti.github.io/gim/esercizio_2/parallasse.html)
+[parallasse](https://emmamassarotti.github.io/gim/esercizio_2/parallasse.html)
 
 
 # Esercizio 3A
