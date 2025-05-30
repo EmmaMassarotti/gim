@@ -42,5 +42,5 @@ Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilment
 
 
 # Esercizio 3B
-[orologio](https://emmamassarotti.github.io/gim/esercizio_3A/orologio.html)
+[orologio](https://emmamassarotti.github.io/gim/esercizio_3B/orologio.html)
 
