@@ -28,7 +28,8 @@ Al contrario, quando una persona diventa consapevole dei propri movimenti (come 
 Kleist sembra quindi suggerire che, per ritrovare una forma di grazia autentica, l’uomo dovrebbe superare la sua autocoscienza: non tornando all’ignoranza, ma procedendo “in avanti” fino a una nuova forma di innocenza. 
 Dal punto di vista teatrale, il saggio è una riflessione sull’autenticità della recitazione e del corpo in scena. Si può collegare anche al concetto di “disumanizzazione dell’arte” o alla ricerca di nuove forme di espressione non legate alla soggettività dell’attore.
 Kleist ci invita a riflettere sul fatto che più cerchiamo di controllare e perfezionare noi stessi, più rischiamo di allontanarci dalla vera bellezza. 
-Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilmente riavvicinarci a una grazia originaria e profonda.
+Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilmente riavvicinarci a una grazia originaria e profonda. 
+(Fatto senza l'uso di Chatgpt)
 
 
 # Esercizio 2
@@ -37,7 +38,7 @@ Solo abbandonando l’illusione del controllo e dell’ego possiamo probabilment
 
 # Esercizio 3A
 [pong](https://emmamassarotti.github.io/gim/esercizio_3A/pong/pong.html)         
-[pioggia](https://emmamassarotti.github.io/gim/esercizio_3A/pioggia/pioggia.html)         
+[pioggia 3D](https://emmamassarotti.github.io/gim/esercizio_3A/pioggia/pioggia.html)         
 [neve](https://emmamassarotti.github.io/gim/esercizio_3A/neve/neve.html)          
 
 
